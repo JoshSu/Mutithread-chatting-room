@@ -1,0 +1,90 @@
+@name t1
+welcome to the Mutithread Chatroom!!!!!!
+@private t2
+ddd
+@private t3
+vvv
+@exit
+you got disconnected !!!!!!
+
+@name t2
+welcome to the Mutithread Chatroom!!!!!!
+t1 wanna talk to you, you @private hisname to chat with him
+t1 wanna talk to you, you @private hisname to chat with him
+t1 says: ddd
+t1 says: vvv
+t4 wanna talk to you, you @private hisname to chat with him
+t4 says: fff
+
+
+type @name + yourname 
+@name t3
+welcome to the Mutithread Chatroom!!!!!!
+@who
+t2 (is active and you can private him)
+t1 wanna talk to you, you @private hisname to chat with him
+t1 says: vvv
+@who
+t4 (is active and you can private him)
+t2 (is active but he got hooked)
+
+
+@name t4
+welcome to the Mutithread Chatroom!!!!!!
+@who
+t1 (is active and you can private him)
+t2 (is active but he got hooked)
+t3 (is active but he got hooked)
+@who
+t2 (is active and you can private him)
+t3 (is active and you can private him)
+@private t2
+fff
+
+
+
+————————————
+
+type @name + yourname 
+@name t1
+welcome to the Mutithread Chatroom!!!!!!
+hello everyone
+my name is t1
+@private t2
+t2 wanna talk to you, you @private hisname to chat with him
+t2 says: ddd
+t3 says to public :hello world I am t3
+t3 says to public :hehehehlo
+
+
+type @name + yourname 
+@name t2
+welcome to the Mutithread Chatroom!!!!!!
+t1 says to public :hello everyone
+t1 says to public :my name is t1
+t1 wanna talk to you, you @private hisname to chat with him
+@private t1
+ddd
+t3 says to public :hello world I am t3
+t3 says to public :hehehehlo
+
+
+type @name + yourname 
+@name t3
+welcome to the Mutithread Chatroom!!!!!!
+t1 says to public :hello everyone
+t1 says to public :my name is t1
+hello world I am t3
+hehehehlo
+
+
+
+type @name + yourname 
+@name t4
+welcome to the Mutithread Chatroom!!!!!!
+t1 says to public :hello everyone
+t1 says to public :my name is t1
+t3 says to public :hello world I am t3
+t3 says to public :hello world I am t3
+t3 says to public :hehehehlo
+t3 says to public :hehehehlo

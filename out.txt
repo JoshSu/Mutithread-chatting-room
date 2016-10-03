@@ -1,0 +1,6 @@
+[30mt1 says to public :hello everyone
+[30mt1 says to public :my name is t1
+[32mt3 says to public :hello world I am t3
+[32mt3 says to public :hello world I am t3
+[32mt3 says to public :hehehehlo
+[32mt3 says to public :hehehehlo
